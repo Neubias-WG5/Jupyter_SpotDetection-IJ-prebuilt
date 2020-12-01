@@ -1,2 +1,2 @@
-from Neubias-WG5/Jupyter_SpotDetection-IJ
+from neubiaswg5/jupyter_spotdetection-ij
 RUN echo "Done"
